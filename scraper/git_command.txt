@@ -1,0 +1,19 @@
+git init
+git add README.md <= file or folder's namd 
+git commit -m "first commit"
+git remote add origin git@github.com:bhchentw/c9_python.git
+git push -u origin master
+
+SSH=
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCbszp1bQCzM5e3RrQFse9DM9lYpWIJqdJicZRmN/GYx72zgwXWj3Ar2nQJDQTpC90fc8bzfTRdEgZdsvrnMMV81td+sbwsEhLXeLZGmaYPf5Us4eUO+JaqDkmwPBN8cWJcbTxMeDpiH15yp6LtZFtf4mcsjburIF24xmUNM9PUL3jQi0NJ0gSy+QDKP/rR2SXGkCHD7oxCJ6DCjIjbSgrHyrOtPvua/j3b82YUBKcaQckU5jqahDPbYyFN/l1aWkaepJH75wIvT//FwwCWxJbHV+CNeVFsuWQQdxZPKmM+Cy6hQLFBEw9ayxTt5ZRVNZ6mJemHCirkMcuviePlzHd bhchentw@gmail.com
+
+checkout
+git clone https://github.com/bhchentw/c9_python.git
+git clone git@github.com:bhchentw/c9_python.git
+
+
+github tutorial
+http://onlywei.github.io/explain-git-with-d3/#pullgit
+http://gogojimmy.net/2012/01/17/how-to-use-git-1-git-basic/
+http://wiki.csie.ncku.edu.tw/github  
+https://read01.com/5NRx6m.html
